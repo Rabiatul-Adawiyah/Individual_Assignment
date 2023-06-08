@@ -1,0 +1,45 @@
+
+
+body {  
+  background-color: #BACC81;
+}
+
+body {
+  margin: 0;
+  font-times new roman: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden ;
+  background-color: #BACC81;
+}
+
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 17px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+
+<---!HOME BUTTON--->
+}
+
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+
+<---!MARQUEE--->
+}
+
+.marquee direction {
+  background-color: black;
+  color: white;
+}
+
